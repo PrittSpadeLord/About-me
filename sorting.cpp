@@ -1,4 +1,4 @@
-//Prithvi 102117040
+//Prithvi Balagopal102117040
 
 #include<stdio.h>
 #include<conio.h>
